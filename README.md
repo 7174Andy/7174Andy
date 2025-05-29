@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working on [Roomiverse](https://github.com/UCSD-Likelion/Roomiverse) at [**LikeLion UCSD**](https://github.com/UCSD-Likelion) & [LabLink](https://github.com/talmolab/lablink) at [**TalmoLab**](https://talmolab.org/)
+- 🔭 I’m currently working on [LabLink](https://github.com/talmolab/lablink) at [**TalmoLab**](https://talmolab.org/)
 - 🌱 I’m currently studying **Pytorch** and **Microsoft .NET 8**
 - ⚡ Fun fact? **I am a great tennis player!**
 

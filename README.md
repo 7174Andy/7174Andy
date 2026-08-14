@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working on [LabLink](https://github.com/talmolab/lablink) at [**TalmoLab**](https://talmolab.org/)
+- 🔭 I’m currently working on [LabLink](https://github.com/talmolab/lablink) at [**TalmoLab**](https://talmolab.org/) and [**residual-rl**](https://github.com/7174Andy/residual-rl/), a pipeline where RL to make corrections to classical data-driven controllers
 - 🌱 I’m currently studying **Pytorch** and **Microsoft .NET 8**
 - ⚡ Fun fact? **I am a great tennis player!**
 
